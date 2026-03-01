@@ -4,6 +4,11 @@ A comprehensive collection of machine learning algorithms and statistical models
 
 Developed for the **"Statistical Modeling and Pattern Recognition" (THL311)** course at the Technical University of Crete (ECE Department).
 
+**Authors:** 
+* Georgios Argyris (AM: 2020030138)
+* Stamatios Alexiou (AM: 2020030158)
+
+
 ## 🚀 Project Overview
 
 This repository contains the implementation and analytical evaluation of foundational dimensionality reduction techniques, feature extraction methods, and statistical classifiers. The project spans across various datasets, moving from mathematical proofs to practical programming applications in both **MATLAB/Octave** and **Python**.
