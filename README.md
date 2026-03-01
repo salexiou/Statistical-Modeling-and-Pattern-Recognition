@@ -32,7 +32,12 @@ This repository contains the implementation and analytical evaluation of foundat
   * **Foreground Pixels:** Count of non-zero pixels.
   * **Centroid:** Center of mass of the digit mapped to a 1D feature.
 * **Classification:** Trained a custom Naive Bayes classifier assuming feature independence and evaluated its accuracy across different digit class combinations.
+  
+## 📁 Dataset Setup Note
+Due to space capacity and GitHub file limits, the `mnist_train.csv` and `mnist_test.csv` files are **not included** in this repository. 
 
+To run the Naive Bayes Classifier (Theme 5), please download the MNIST CSV dataset and place the files in the following directory before executing the script:
+`exercise1_5/data/`
 ## 💻 Tech Stack
 * **Languages:** MATLAB / Octave, Python 3
 * **Libraries (Python):** `numpy`, `matplotlib`, `pandas` (for data loading and matrix operations only; ML algorithms were written from scratch).
